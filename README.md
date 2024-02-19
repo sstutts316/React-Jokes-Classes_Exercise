@@ -1,6 +1,6 @@
-# React_History_Exercise
+# react-jokes-classes
 
-# **CheeZJokes App**
+## **CheeZJokes App**
 
 [react-jokes-classes-starter-code.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e8111a3-9f45-4dcc-b332-496812b25c3c/react-jokes-classes-starter-code.zip)
 
@@ -12,7 +12,7 @@ We’ve built an app that lets people view and vote on cheesy jokes. To generate
 
 Right now, the application is written using class components. Refactor the app to use functional components with hooks.
 
-## **Further Study**
+### **Further Study**
 
 If you have time left, add features to your hooks version of this project.
 
